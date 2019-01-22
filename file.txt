@@ -1,1 +1,4 @@
- 1 I am learning git.
+I am learning git.
+
+Doing a git collaborator after cloning. 
+UCSD ECE 196, GitHub tutorial Assignment.
